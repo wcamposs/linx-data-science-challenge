@@ -12,12 +12,18 @@ In order to avoid any unexpected errors during document correction, each issue o
 
 Finally, the whole script was executed to ensure that no script execution error appears during the document correction.
 
+# Dataset Used
+
+The Dataset used for this challenge was downloaded from his link: https://s3.amazonaws.com/ml-challenge/ecommerce-events.ndjson.xz
+20M compressed, 300M uncompressed.
+
+The documentation for this dataset is summarized in dict format in the file 'dataset_documentation.ipnb'.
+
 # Documents contained
 
 1. **data_science_challenge.ipnb**        # Codes and results for the challenge
 2. **dataset_documentation.ipnb**         # Documentation of the dataset used
-3. **ecommerce-events.ndjson**            # Dataset used for the challenge
-4. **requirements.txt**                   # Requirements used on the Docker Container
+3. **requirements.txt**                   # Requirements used on the Docker Container
 
 # Credits
 
