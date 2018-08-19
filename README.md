@@ -14,9 +14,9 @@ Finally, the whole script was executed to ensure that no script execution error 
 
 # Documents contained
 
-**data_science_challenge.ipnb**        # Codes and results for the challenge
-**dataset_documentation.ipnb**         # Documentation of the dataset used
-**ecommerce-events.ndjson**            # Dataset used for the challenge
+1. **data_science_challenge.ipnb**        # Codes and results for the challenge
+2. **dataset_documentation.ipnb**         # Documentation of the dataset used
+3. **ecommerce-events.ndjson**            # Dataset used for the challenge
 
 # Credits
 
