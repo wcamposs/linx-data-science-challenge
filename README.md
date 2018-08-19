@@ -6,6 +6,17 @@ My results for the Linx Impulse Data Science challenge, offered for the job plac
 
 For this challenge, I used a docker container, Jupyter notebook and the 'pandas' and 'matplotlib' libraries. However, all the components contained in the container used are specified in the 'requirements,txt' document.
 
+**Assuming you have docker installed, run the commands below**
+
+git clone  git@github.com:wcamposs/linx-data-science-challenge.git
+
+cd linx-data-science-challenge
+
+docker-compose up
+
+and access Jupyter on: http://localhost:8888
+
+
 # Tests
 
 In order to avoid any unexpected errors during document correction, each issue of challenge was executed in a unique way.
