@@ -19,7 +19,7 @@ and access Jupyter in your browser on: http://localhost:8888
 
 # Tests
 
-In order to avoid any unexpected errors during document correction, each issue of challenge was executed in a unique way.
+In order to avoid any unexpected errors during document correction, each question of challenge was executed in a unique way.
 
 Finally, the whole script was executed to ensure that no script execution error appears during the document correction.
 
