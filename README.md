@@ -30,13 +30,13 @@ The Dataset used for this challenge was downloaded from his link: https://s3.ama
 
 The documentation for this dataset is summarized in dict format in the file 'dataset_documentation.ipnb'.
 
-# Documents contained
-* **notebook**                           # Directory with the challenge and documentation
- * **data_science_challenge.ipnb**      # Codes and results for the challenge
- * **dataset_documentation.ipnb**       # Documentation of the dataset used
-* **requirements.txt**                   # Requirements used on the Docker Container
-* **Dockerfile**                         # Docker definition file
-* **docker-compose.yml**                 # Compose file defining services
+# Directory and documents contained
+1. **notebook**                           # Directory with the challenge and documentation
+ - **data_science_challenge.ipnb**        # Codes and results for the challenge
+ - **dataset_documentation.ipnb**         # Documentation of the dataset used
+2. **requirements.txt**                   # Requirements used on the Docker Container
+3. **Dockerfile**                         # Docker definition file
+4. **docker-compose.yml**                 # Compose file defining services
 
 # Credits
 
